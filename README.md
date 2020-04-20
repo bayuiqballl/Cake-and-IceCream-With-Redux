@@ -18,8 +18,7 @@ dispatch() berfungsi sebagai connector
 - ## Store
 
 Store adalah menggabungkan Action dan Reducer agar bisa bekerja sebagai state manajemen.
-Store bertanggung jawab sebagai:
+Store bertanggung jawab sebagai menyimpan keseluruhan state dan membuat kerja reducer.
 
-1. menyimpan keseluruhan state.
-2. mengakses state dengan cara getState()
-   -menjalankan reducer untuk merubah state dengan cara dispatch(action)
+- Link
+  [disini](https://agitated-ride-45ff84.netlify.app/)
